@@ -45,4 +45,13 @@ This game is a simple implementation inspired by the original Flappy Bird game d
 # License
 This project is licensed under the MIT License. Feel free to modify and distribute it according to the terms of the license.
 
+
+![start](https://github.com/Dhaval1195/FlappyBird/assets/30174736/9e88fc44-2278-4179-aad4-453bb2e503ee)
+
+![$th](https://github.com/Dhaval1195/FlappyBird/assets/30174736/7742c122-857f-4140-8fa5-f36e58e3b18e)
+
+![gameover](https://github.com/Dhaval1195/FlappyBird/assets/30174736/f0079234-240c-47a1-8d0d-9051db7ffb1e)
+
 Enjoy the game!
+ 
+
